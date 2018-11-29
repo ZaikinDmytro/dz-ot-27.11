@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b677f3e-e92b-4a62-876c-986dd4531ea4" name="Default Changelist" comment="" />
+    <list default="true" id="7b677f3e-e92b-4a62-876c-986dd4531ea4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +15,7 @@
         <entry file="file://$PROJECT_DIR$/test1.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="3" selection-start-column="3" selection-end-column="3" />
+              <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -77,22 +79,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1543501590160</updated>
-      <workItem from="1543501592150" duration="543000" />
+      <workItem from="1543501592150" duration="1325000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2000" />
+    <option name="totallyTimeSpent" value="784000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="249" y="65" width="1205" height="788" extended-state="0" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32902297" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3275862" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -110,7 +112,7 @@
     <entry file="file://$PROJECT_DIR$/test1.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="3" selection-start-column="3" selection-end-column="3" />
+          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
         </state>
       </provider>
     </entry>
